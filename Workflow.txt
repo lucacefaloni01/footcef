@@ -1,0 +1,5 @@
+kenobi workflow
+
+1. Scraping delle partite del giorno odierno, di tutti i campionati, 
+2. Estrazione dei codici univoci delle squadre
+    2a. Scaricamento dei dati utili in base al punto [1.]
