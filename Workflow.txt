@@ -2,4 +2,6 @@ kenobi workflow
 
 1. Scraping delle partite del giorno odierno, di tutti i campionati, 
 2. Estrazione dei codici univoci delle squadre
-    2a. Scaricamento dei dati utili in base al punto [1.]
+    2a. Scaricamento dei dati utili in base agli incontri del giorno stesso
+        Tempo calcolato per 15 squadre 54.5 minuti per 30 squadre. contempo tra una richiesta e l'altra da 4 a 8 secondi 
+        

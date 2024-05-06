@@ -286,7 +286,7 @@ def partite_di_oggi(competition):
 
                 return dataset_odierno
 
-            # Esempio di utilizzo
+             # Esempio di utilizzo
             # Supponendo che `calendar_seriea` sia il tuo DataFrame e `colonne_selezionate` sia la lista di colonne
             premier_di_oggi = filtro_giornata_odierna(calendar_premier, colonne_selezionate)
 
